@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+/* em - é baseado no tamanho do pai */
+/* rem - é baseado no tamanho do root */
+html {
+  font-size: 62.5%; /* 10px */
+}
+
 body {
   width: 100vw;
 }
