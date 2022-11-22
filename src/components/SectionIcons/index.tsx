@@ -15,6 +15,11 @@ const DivIcons = styled.div`
     text-align: center;
     width: 25%;
     height: 80%;
+
+    &:hover {
+        background-color: #ccc;
+        cursor: pointer;
+    }
 `;
 
 
